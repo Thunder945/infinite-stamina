@@ -1,2 +1,1 @@
--- crown4x4e on discord if you need help
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Thunder945/somestuff/main/CrownSploits4"))()
+game.Players.LocalPlayer:Kick("contact crown4x4e on discord for new version")
